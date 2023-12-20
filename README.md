@@ -15,3 +15,23 @@ PDO stands for "PHP Data Objects." It is a PHP extension that provides a uniform
 
 PDO is a database access layer providing a uniform method of access to multiple databases. It supports various database systems, including MySQL, PostgreSQL, SQLite, Microsoft SQL Server, and others.
 MySQLi is specific to MySQL databases. It is designed to work with MySQL servers and does not provide a uniform interface for different database systems.
+
+
+## Day 2
+
+
+### MVC
+
+MVC (Model-View-Controller) is a pattern in software design commonly used to implement user interfaces, data, and controlling logic.
+
+#### MVC: Model
+
+Represents the data and business logic of the application.
+
+#### MVC: View
+
+Displays the data to the user and handles user input.
+
+#### MVC: Controller
+
+ Manages the communication between the Model and View, handling user input and updating the Model and View accordingly.
